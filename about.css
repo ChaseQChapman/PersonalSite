@@ -1,0 +1,42 @@
+
+.navbar .navbar-expand-lg {
+  padding-right: 5rem;
+  background-color: transparent;
+}
+.navbar-expand-lg .navbar-nav .nav-item .nav-link {
+  padding-right: 2rem;
+  padding-left: 2rem;
+  font-family: "nunito", sans-serif;
+  color: white;
+}
+.navbar-dark .navbar-brand {
+  font-family: "nunito", sans-serif;
+  padding-left: 25px;
+}
+.navbar-dark .navbar-brand i {
+  color: lightblue;
+}
+.header {
+background-color: black;
+padding-top: 15px;
+
+
+}
+.navbar-expand-lg .navbar-nav .nav-social {
+  padding: .5rem;
+  color: white;
+}
+.navbar-expand-lg .navbar-nav .contact-link {
+  border: 1px solid white;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  margin-right: 40px;
+  border-width: thin;
+  margin-top: 4px;
+
+}
+.navbar-expand-lg .navbar-nav .about-link {
+  padding-right: 50px;
+}

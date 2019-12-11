@@ -1,0 +1,172 @@
+/* Notes */
+/* gold/copper color #e1a87a; */
+
+
+/* HEADING */
+.navbar .navbar-expand-lg {
+  padding-right: 5rem;
+  background-color: transparent;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 2rem;
+  padding-left: 2rem;
+  font-family: "nunito", sans-serif;
+  color: white;
+}
+.navbar-dark .navbar-brand {
+  font-family: "nunito", sans-serif;
+  padding-left: 25px;
+}
+.navbar-dark .navbar-brand i {
+  color: lightblue;
+}
+.header {
+  background-image: url("header.jpg");
+  /* background-attachment: fixed; */
+  background-position: center;
+  background-size: cover;
+  height: 900px;
+  padding-top: 15px;
+
+
+}
+.navbar-expand-lg .navbar-nav .nav-social {
+  padding: .5rem;
+  color: white;
+}
+.navbar-expand-lg .navbar-nav .contact-link {
+  border: 1px solid white;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  margin-right: 40px;
+  border-width: thin;
+  margin-top: 4px;
+
+}
+.navbar-expand-lg .navbar-nav .about-link {
+  padding-right: 50px;
+}
+/* CONTENT1 */
+
+.technologies {
+  background-color: #f0f0f0;
+  font-family: "nunito", sans-serif;
+  padding-bottom: 300px;
+}
+.technologies h3 {
+  font-size: 1.2rem;
+}
+.technologies h2 {
+  font-size: 2rem;
+  font-weight: 125;
+  padding-top: 225px;
+}
+.languages {
+  padding-top: 180px;
+}
+.tools {
+  padding-top: 180px;
+}
+/* CONTENT2 */
+.section2content {
+  font-family: "nunito", sans-serif;
+  padding-bottom: 75px;
+}
+.section2content h4 {
+  font-size: 1.3rem;
+  font-family: "nunito", sans-serif;
+}
+.education #educationTitle {
+  padding-top: 75px;
+  font-size: 2rem;
+  padding-bottom: 50px;
+}
+.educationContent {
+  padding-top: 80px;
+}
+.education p {
+  font-size: 1.2rem;
+  margin: 0;
+}
+.accomplishments #accomplishmentsTitle {
+  padding-top: 60px;
+  font-size: 2rem;
+  padding-bottom: 50px;
+}
+.accomplishmentsContent {
+  padding-top: 30px;
+  font-size: 1.2rem;
+}
+.volunteer {
+  padding:
+}
+.volunteer #volunteerTitle {
+  padding-top: 75px;
+  font-size: 2rem;
+}
+.volunteerContent {
+  padding-top: 50px;
+}
+.volunteerContent h3 {
+  font-size: 1.3rem;
+}
+.volunteerContent h4 {
+  font-size: 1rem;
+}
+.volunteerContent .tutorDescription {
+  border-left: 2px solid lightgrey;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 1px;
+  /* line-height: .5; */
+}
+.workExperience {
+  background-color: #f0f0f0;
+  font-family: "nunito", sans-serif;
+}
+.workExperienceTitle {
+  padding-top: 100px;
+  font-size: 2rem;
+}
+.workExperienceContent {
+  padding-top: 100px;
+}
+.workExperience h3 {
+  font-size: 1.3rem;
+}
+.workExperience h4 {
+  font-size: 1rem;
+}
+.workExperience p {
+  border-left: 2px solid lightgrey;
+  padding-left: 10px;
+}
+.experience1 {
+  padding-bottom: 60px;
+}
+.experience2 {
+  padding-bottom: 60px;
+}
+.experience3 {
+  padding-bottom: 110px;
+}
+/* FOOTER */
+.footer {
+  background-color: #282828;
+  color: white;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.footer .footer-social a {
+  color: white;
+  padding: 8px;
+}
+
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
